@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+sqlalchemy
+alembic
+python-dotenv
+requests
+numpy
+pandas
+tensorflow
+tensorflow-recommenders
